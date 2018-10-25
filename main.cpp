@@ -1,6 +1,6 @@
 #include <iostream>
 
 int main(){
-    std::cout << "gosh darnit";
+    std::cout << "ece 150 is worthless";
     return 0;
 }
